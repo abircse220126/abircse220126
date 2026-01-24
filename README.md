@@ -74,4 +74,13 @@ Experienced in collaborating within **agile development environments**, performi
 ---
 
 ## Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abirhossen4352@gmail.com)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/8801708954352)
+
+📧 **Email:** abirhossen4352@gmail.com  
+📱 **WhatsApp:** +880 1708 954352  
+
 ⭐ Open to collaboration, freelance opportunities, and full-time roles.
