@@ -24,7 +24,7 @@ Experienced in collaborating within **agile development environments**, performi
 ## Technical Skills
 
 ### Frontend Engineering
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&size=24)
 
 - Component-driven UI development  
 - Responsive & accessible interface design  
@@ -33,7 +33,7 @@ Experienced in collaborating within **agile development environments**, performi
 ---
 
 ### Backend Engineering
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![Backend](https://skillicons.dev/icons?i=nodejs,express&size=24)
 
 - RESTful API design & implementation  
 - Authentication & authorization (JWT, role-based access)  
@@ -42,7 +42,7 @@ Experienced in collaborating within **agile development environments**, performi
 ---
 
 ### Database & Storage
-![Database](https://skillicons.dev/icons?i=mongodb)
+![Database](https://skillicons.dev/icons?i=mongodb&size=24)
 
 - NoSQL data modeling & schema design  
 - Data indexing & performance optimization  
@@ -50,7 +50,7 @@ Experienced in collaborating within **agile development environments**, performi
 ---
 
 ### Development Tools & Workflow
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel&size=24)
 
 - Version control with Git & GitHub  
 - CI/CD workflows & deployment pipelines  
@@ -75,10 +75,9 @@ Experienced in collaborating within **agile development environments**, performi
 
 ## Connect
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abirhossen4352@gmail.com)
-[![WhatsApp](https://skillicons.dev/icons?i=whatsapp)](https://wa.me/8801708954352)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=22)](https://www.linkedin.com/)
+[![Facebook](https://skillicons.dev/icons?i=facebook&size=22)](https://www.facebook.com/)
+[![WhatsApp](https://skillicons.dev/icons?i=whatsapp&size=22)](https://wa.me/8801708954352)
 
 📧 **Email:** abirhossen4352@gmail.com  
 📱 **WhatsApp:** +880 1708 954352  
