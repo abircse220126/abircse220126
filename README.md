@@ -7,11 +7,9 @@
 
 ## Professional Summary
 
-Full-Stack Software Engineer specializing in designing, developing, and deploying **scalable, secure, and high-performance web applications**. Proven experience delivering **end-to-end solutions** using modern JavaScript technologies across both frontend and backend systems.
+I am a passionate MERN Stack Developer specializing in building modern, high-performance, and scalable web applications. I work with MongoDB, Express.js, React.js, Node.js, TypeScript, Next.js, HTML, CSS, Git, and VS Code to create powerful full-stack solutions that solve real-world problems.
 
-Strong background in building **responsive user interfaces**, architecting **RESTful APIs**, and implementing **secure authentication workflows**. Adept at translating business requirements into reliable technical solutions while maintaining clean, maintainable, and testable codebases.
-
-Experienced in collaborating within **agile development environments**, performing code reviews, optimizing system performance, and ensuring software quality standards. Continuously improving technical expertise to stay aligned with evolving industry trends and best practices.
+I focus on writing clean, maintainable, and efficient code while ensuring responsive design, smooth user experience, and strong backend architecture. From dynamic front-end interfaces to secure and optimized server-side APIs, I handle the complete web development process
 
 ---
 
