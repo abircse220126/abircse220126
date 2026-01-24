@@ -1,5 +1,5 @@
 #### Full-Stack Web Development with MongoDB, Express, React & Node.js
-![Full-Stack Web Development with MongoDB, Express, React & Node.js](https://i.ibb.co.com/xKKKmJz2/Untitled-design-8.png)
+![Full-Stack Web Development with MongoDB, Express, React & Node.js](https://pbs.twimg.com/profile_banners/2015148334521155584/1769286766/600x200)
 
 I am a passionate MERN Stack Developer specializing in building modern, high-performance, and scalable web applications. I work with MongoDB, Express.js, React.js, Node.js, TypeScript, Next.js, HTML, CSS, Git, and VS Code to create powerful full-stack solutions that solve real-world problems.
 
