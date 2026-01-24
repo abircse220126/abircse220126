@@ -1,16 +1,14 @@
-## Hi there 👋
+#### Full-Stack Web Development with MongoDB, Express, React & Node.js
+![Full-Stack Web Development with MongoDB, Express, React & Node.js](https://i.ibb.co.com/nJmDZt8/MERN.png)
 
-<!--
-**abircse220126/abircse220126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate MERN Stack Developer specializing in building modern, high-performance, and scalable web applications. I work with MongoDB, Express.js, React.js, Node.js, TypeScript, Next.js, HTML, CSS, Git, and VS Code to create powerful full-stack solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+I focus on writing clean, maintainable, and efficient code while ensuring responsive design, smooth user experience, and strong backend architecture. From dynamic front-end interfaces to secure and optimized server-side APIs, I handle the complete web development process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: React.js, Next.js, HTML5, CSS3, JavaScript, TypeScript, Responsive UI, Tailwind CSS,  Node.js, Express.js, RESTful APIs, Authentication & Authorization,  MongoDB, 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
