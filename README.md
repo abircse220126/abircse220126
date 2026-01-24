@@ -1,7 +1,7 @@
 # Md Abir Hossan  
 **Full-Stack Software Engineer (MERN Stack)**
 
-![Professional Developer Banner](./assets/banner.png)
+![Professional Developer Banner](https://your-image-url-here.com/banner.png)
 
 ---
 
@@ -81,4 +81,3 @@ Experienced in collaborating within **agile development environments**, performi
 
 📧 **Email:** abirhossen4352@gmail.com  
 📱 **WhatsApp:** +880 1708 954352  
-
