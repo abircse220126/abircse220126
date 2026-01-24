@@ -75,19 +75,9 @@ Experienced in collaborating within **agile development environments**, performi
 
 ## Connect
 
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="18" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="18" />
-</a>
-&nbsp;
-<a href="https://wa.me/8801708954352" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" width="18" />
-</a>
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801708954352)
 
 📧 **Email:** abirhossen4352@gmail.com  
 📱 **WhatsApp:** +880 1708 954352  
