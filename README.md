@@ -82,4 +82,3 @@ Experienced in collaborating within **agile development environments**, performi
 📧 **Email:** abirhossen4352@gmail.com  
 📱 **WhatsApp:** +880 1708 954352  
 
-⭐ Open to collaboration, freelance opportunities, and full-time roles.
