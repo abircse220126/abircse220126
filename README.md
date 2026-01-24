@@ -1,5 +1,5 @@
 
-**Full-Stack Web Development with MongoDB, Express, React & Node.js**
+*MERN Stack Developer*
 
 ![Professional Developer Banner](https://i.ibb.co.com/xKKKmJz2/Untitled-design-8.png)
 
