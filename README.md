@@ -1,7 +1,7 @@
 # Md Abir Hossan  
 **Full-Stack Software Engineer (MERN Stack)**
 
-![Professional Developer Banner](https://media.licdn.com/dms/image/v2/D5616AQF_s07G3O3E3w/profile-displaybackgroundimage-shrink_350_1400/B56ZU9CHJLHoAY-/0/1740485719848?e=1770854400&v=beta&t=Y3f7b5r_k9Jbcf4qC4iaP7TPeFjZYjrQoJZmGCclOwk)
+![Professional Developer Banner](https://i.ibb.co.com/xKKKmJz2/Untitled-design-8.png)
 
 ---
 
