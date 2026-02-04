@@ -1,7 +1,7 @@
 
 *MERN Stack Developer*
 
-![Professional Developer Banner](https://i.ibb.co.com/xKKKmJz2/Untitled-design-8.png)
+![Professional Developer Banner](https://media.licdn.com/dms/image/v2/D4D16AQEY8GwpT8_9Tw/profile-displaybackgroundimage-shrink_350_1400/B4DZwpchhkG8Ag-/0/1770221870268?e=1772064000&v=beta&t=_hEvd4azt5_69A8gvW5gkGV2akJKgS2QHcTqDlDkdOc)
 
 ---
 
